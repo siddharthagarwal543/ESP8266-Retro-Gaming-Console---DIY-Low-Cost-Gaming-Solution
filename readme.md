@@ -17,3 +17,8 @@ Working:
 The GitHub repository explains the working of the Flappy Bird game on the ESP8266-based console. It highlights the role of the ESP8266 Node-MCU microcontroller, which receives user input from the push button to control the bird's movement. The game features obstacle collision detection, scoring, and gameplay termination upon collision or reaching the screen edge.
 
 By exploring this repository, users can gain insights into Arduino programming, OLED display usage, and creating interactive games on the ESP8266 platform. With a focus on simplicity and fun, the DIY gaming console opens the door to endless gaming possibilities at an affordable cost.
+
+## Contributors
+
+- Siddharth Agarwal
+- Sanchit Sharma
