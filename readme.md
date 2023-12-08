@@ -8,10 +8,10 @@ Video games have been a beloved form of entertainment for decades, and retro gam
 - Customizable Gameplay: The console uses two potentiometers to independently control the movement of each game slider. Players can enjoy an intuitive and interactive gaming experience with personalized settings.
 - Flappy Bird Game Example: As a demonstration of the console's capabilities, we have implemented a simplified version of the popular Flappy Bird game. This Arduino-based game showcases the potential for enjoyable gameplay on the ESP8266 gaming console.
 
-##Components and Program Description
+## Components and Program Description
 The repository includes details on the required components, such as the ESP8266, OLED display, buzzer, and push button. The program, written in Arduino C language, is described, illustrating how the game mechanics and graphical elements are handled.
 
-##Working
+## Working
 The GitHub repository explains the working of the Flappy Bird game on the ESP8266-based console. It highlights the role of the ESP8266 Node-MCU microcontroller, which receives user input from the push button to control the bird's movement. The game features obstacle collision detection, scoring, and gameplay termination upon collision or reaching the screen edge.
 
 By exploring this repository, users can gain insights into Arduino programming, OLED display usage, and creating interactive games on the ESP8266 platform. With a focus on simplicity and fun, the DIY gaming console opens the door to endless gaming possibilities at an affordable cost.
